@@ -1,0 +1,44 @@
+@font-face {
+    font-family: "FbGesher";
+    src: url("FbGesher-Regular.otf") format("opentype")
+}
+.top-title{
+  color: #7a5e1d;
+}
+body {
+    background-color: #fcbb15;
+}
+.hb {
+    text-align: right;
+    direction: rtl;
+}
+.big-text {
+    font-size: 17px;
+}
+.logo-title {
+    width: 260px;
+    margin: -19px 50px 48px;
+}
+
+.main-container {
+background-color: #fcbb15;
+font-family: "FbGesher";
+color: #231f20;
+    margin: 0px 140px;
+    font-size: 11px;
+}
+.menu-item{
+    margin-top: 15px;
+}
+.item-info{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+}
+.footer {
+    margin-top: 30px;
+}
+
+.additional-info {
+    margin: 15px 0px;
+}

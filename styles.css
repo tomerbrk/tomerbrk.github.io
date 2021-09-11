@@ -61,6 +61,15 @@ h1 {
   margin: 15px 0px;
 }
 
+.footer div {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.footer div div {
+  margin: 5px 5px;
+}
+
 @media (max-width: 600px) {
   .main-container {
     margin: 0px 5%;
